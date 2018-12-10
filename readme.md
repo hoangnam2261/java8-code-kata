@@ -1,5 +1,5 @@
 # Java8 Code Kata
-[![Build Status](https://travis-ci.org/konohiroaki/java8-code-kata.svg?branch=master)](https://travis-ci.org/konohiroaki/java8-code-kata)
+[![Build Status](https://travis-ci.org/hoangnam2261/java8-code-kata.svg?branch=master)](https://travis-ci.org/hoangnam2261/java8-code-kata)
 
 ☝ It's failing because tests are not solved yet! :blush:
 
